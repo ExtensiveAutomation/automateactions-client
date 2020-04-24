@@ -1,0 +1,7 @@
+{
+    "WELCOME_MESSAGE": "",
+    "API_URL": "http://127.0.0.1:8081",
+    "API_PATH": "/",
+    "API_LOGIN": "",
+    "API_PASSWORD": ""
+}
