@@ -41,7 +41,7 @@ If the authentication is successful, you are redirect to the dashboard.
 
 ## Show executions
 
-![jobs](/images/page_jobs.png)
+![jobs](/images/page_execs.png)
 
 ## Get job details
 
